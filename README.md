@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henasys
-- 👀 I’m interested in development software and hardware, embedded system.
+- 👀 I’m interested in development of software and hardware, embedded system.
 - 🌱 I’m currently learning Flutter, NestJS, Django REST, React...
 
 <!---
